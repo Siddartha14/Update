@@ -1,6 +1,10 @@
 package com.java;
 
 public class Hello {
-  
-System.out.println("hello everyone");
+  public static void  main(String[]args){
+
+    
+  }
+
 }
+
